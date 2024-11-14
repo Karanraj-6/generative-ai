@@ -1,6 +1,5 @@
 
-<div align="center">
-   <img width="100" src="https://github.com/genieincodebottle/generative-ai/blob/main/images/popular_resources_.png"> 
+<div align="center"> 
    <br></br>
    <a target="_blank" href="https://github.com/genieincodebottle/generative-ai/blob/main/docs/Essential_Terms_GenAI.pdf"><img width="150" height="40" src="https://github.com/genieincodebottle/generative-ai/blob/main/images/genai_glossary_button_.png"></a>
    <a target="_blank" href="https://github.com/genieincodebottle/generative-ai/blob/main/GenAI_Roadmap.md"><img width="150" height="40" src="https://github.com/genieincodebottle/generative-ai/blob/main/images/genai_roadmap_button_.png"></a>
